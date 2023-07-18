@@ -1,0 +1,13 @@
+Upon hearing a siren of a nearby police vehicle, one might think about how this tone is being generated.
+The brain behind these tones are not a microcontroller but a humble NE555 timer IC.
+
+The list of components required for designing a police siren circuit is given below:
+
+Breadboard
+555-timer IC*2
+Capacitors: 10uf, 0.01uf, 47uf, 100nf
+Resistors: 1k, 4.7k, 10k
+Potentiometer: 100k and 50k
+9V battery
+Breadboard jumper wires
+
